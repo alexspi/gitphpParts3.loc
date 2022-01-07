@@ -5,7 +5,7 @@
  * Date: 07.01.2022
  */
 //require 'Autoload.php';
-//spl_autoload_register([(new Autoload()), 'loadClass']);
+
 require 'DBFactory/DBFactory.php';
 
 require 'Interface/ConnectDBInterface.php';
